@@ -1,3 +1,6 @@
 # Snake Game
 
-![logo png](https://github.com/user-attachments/assets/196a8c7f-cea2-4266-bfa8-12ec815b4fd1)
+![Screenshot 2025-01-21 015228](https://github.com/user-attachments/assets/f2e68977-721e-4508-8c60-dc8ca57dd7c8)
+
+
+
